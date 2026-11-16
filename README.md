@@ -2,7 +2,7 @@
 
 An end-to-end analytics project for the Maven Northwind Challenge. I cleaned the data in Python, answered business questions in PostgreSQL, and built an executive dashboard in Power BI.
 
-![Dashboard](images/dashboard.png)
+![Dashboard](https://github.com/rinkuwankhede/northwind-sales-dashboard/blob/main/Northwind%20Dashboard%20.png)
 
 ## Business Problem
 
